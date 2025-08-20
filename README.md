@@ -6,8 +6,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafayat783593&label=Profile%20views&color=0e75b6&style=flat" alt="shafayat783593" /> </p>
-
+<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```javascript
 const dhanubor = {
@@ -36,6 +35,16 @@ const dhanubor = {
 
 <br clear="right"/>
 
+### 🎯 **Professional Highlights**
+- 🏆 **10+ Production Applications** deployed and maintained
+- 🚀 **99% Uptime** across all projects with optimized performance  
+- 💼 **Proven Track Record** of delivering projects on time and within budget
+- 🌟 **Modern Tech Stack** expertise with latest industry standards
+- 🔐 **Security-First** approach in all development practices
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <h3 align="left">Connect with me:</h3>

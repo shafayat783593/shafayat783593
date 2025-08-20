@@ -1,15 +1,13 @@
 
 ![logo](https://github.com/shafayat783593/shafayat783593/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png)
 
-<h1 align="center">Hi 👋, I'm Md Shafayat Hosan</h1>
+<h1 align="center">Hi 👋, I'm Md Shafayat Hosan </h1>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafayat783593&label=Profile%20views&color=0e75b6&style=flat" alt="shafayat783593" /> </p>
 
-
-<p align="right"> <img src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="shafayat783593" /> </p>
 
 ```javascript
 const dhanubor = {
@@ -34,12 +32,9 @@ const dhanubor = {
     goals: "Seeking remote opportunities with innovative teams worldwide",
     funFact: "I turn coffee ☕ into code 💻 and bugs into features 🐛✨"
 };
-
-
-
-
-
 ```
+https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966
+<br clear="right"/>
 
 
 

@@ -6,8 +6,9 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafayat783593&label=Profile%20views&color=0e75b6&style=flat" alt="shafayat783593" /> </p>
-
+<table>
+<tr>
+<td>
 
 ```javascript
 const dhanubor = {
@@ -32,7 +33,6 @@ const dhanubor = {
     goals: "Seeking remote opportunities with innovative teams worldwide",
     funFact: "I turn coffee ☕ into code 💻 and bugs into features 🐛✨"
 };
-```
 
 <br clear="right"/>
 

@@ -1,6 +1,5 @@
 
-
-![logo](https://github.com/shafayat783593/shafayat783593/blob/main/github%20banner.png)
+![logo](https://github.com/shafayat783593/shafayat783593/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png)
 
 <h1 align="center">Hi 👋, I'm Md Shafayat Hosan</h1>
 

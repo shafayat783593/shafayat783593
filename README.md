@@ -10,7 +10,7 @@
 
 
 ```javascript
-const dhanubor = {
+const shafayat = {
     name: "Md Shafayat Hosan",
     role: "Full-Stack Web Developer",
     location: "Chottogram, Bangladesh 🇧🇩",

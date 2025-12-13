@@ -11,10 +11,10 @@
 
 ```javascript
 const dhanubor = {
-    name: "Dhanu Bor Mondal",
+    name: "Md Shafayat Hosan",
     role: "Full-Stack Web Developer",
-    location: "Khulna, Bangladesh 🇧🇩",
-    experience: "2+ Years",
+    location: "Chottogram, Bangladesh 🇧🇩",
+    experience: "1+ Years",
     
     currentFocus: [
         "Building CryptoHub - Crypto Analytics Platform",
@@ -24,9 +24,9 @@ const dhanubor = {
     ],
     
     expertise: {
-        frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS"],
+        frontend: ["React.js", "Next.js", "Tailwind CSS"],
         backend: ["Node.js", "Express.js", "MongoDB", "Firebase"],
-        tools: ["Git", "Docker", "AWS", "Vercel", "Figma"]
+        tools: ["Git", "Docker", "Vercel", "Figma"]
     },
     
     goals: "Seeking remote opportunities with innovative teams worldwide",

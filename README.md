@@ -1,98 +1,172 @@
+<div align="center">
 
-![logo](https://github.com/shafayat783593/shafayat783593/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png)
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:a371f7&height=120&section=header&text=Md%20Shafayat%20Hosan&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-<h1 align="center">Hi 👋, I'm Md Shafayat Hosan </h1>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%8C%9F;Building+CryptoHub+Analytics+Platform+%F0%9F%AA%99;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
+</a>
 
+<br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
+<!-- Profile Views & Follow -->
+![Profile Views](https://komarev.com/ghpvc/?username=shafayat783593&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/shafayat783593?style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/shafayat783593)
 
-<img align="right" alt="Coding GIF" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-
-```javascript
-const shafayat = {
-    name: "Md Shafayat Hosan",
-    role: "Full-Stack Web Developer",
-    location: "Chottogram, Bangladesh 🇧🇩",
-    experience: "1+ Years",
-    
-    currentFocus: [
-        "Building CryptoHub - Crypto Analytics Platform",
-        "Mastering Redux Toolkit & Advanced State Management",
-        "Exploring Payment Gateway Integrations",
-        "Contributing to Open Source Projects"
-    ],
-    
-    expertise: {
-        frontend: ["React.js", "Next.js", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "MongoDB", "Firebase"],
-        tools: ["Git", "Docker", "Vercel", "Figma"]
-    },
-    
-    goals: "Seeking remote opportunities with innovative teams worldwide",
-    funFact: "I turn coffee ☕ into code 💻 and bugs into features 🐛✨"
-};
-```
-
-<br clear="right"/>
-
-### 🎯 **Professional Highlights**
-- 🏆 **10+ Production Applications** deployed and maintained
-- 🚀 **99% Uptime** across all projects with optimized performance  
-- 💼 **Proven Track Record** of delivering projects on time and within budget
-- 🌟 **Modern Tech Stack** expertise with latest industry standards
-- 🔐 **Security-First** approach in all development practices
+</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🧑‍💻 About Me
 
+```javascript
+const shafayat = {
+    name        : "Md Shafayat Hosan",
+    role        : "Full-Stack Web Developer",
+    location    : "Chittagong, Bangladesh 🇧🇩",
+    experience  : "1+ Years",
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-shafayat-hosan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shafayat-hosan" height="30" width="40" /></a>
-<a href="https://fb.com/1bdshdmckr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="1bdshdmckr/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@shapashapa1676" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@shapashapa1676" height="30" width="40" /></a>
-</p>
+    currentFocus: [
+        "Building CryptoHub — Crypto Analytics Platform 🪙",
+        "Mastering Redux Toolkit & Advanced State Management",
+        "Exploring Payment Gateway Integrations 💳",
+        "Contributing to Open Source Projects 🌍"
+    ],
 
-## 🚀 Technologies & Tools
+    expertise: {
+        frontend : ["React.js", "Next.js", "Tailwind CSS", "JavaScript"],
+        backend  : ["Node.js", "Express.js", "MongoDB", "Firebase"],
+        tools    : ["Git", "Docker", "Vercel", "Figma"]
+    },
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+    goal    : "Seeking remote opportunities with innovative teams worldwide 🌐",
+    funFact : "I turn coffee ☕ into code 💻 and bugs into features 🐛✨"
+};
+```
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=masud667&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="460" style="max-width:100%;">
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud667&layout=compact&theme=tokyonight" alt="Top Langs" width="300" style="max-width:100%;">
-      <br/>
-      <img src="https://streak-stats.demolab.com?user=masud667&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="300" style="max-width:100%; margin-top:8px;">
-    </td>
-  </tr>
-</table>
+---
 
+## 🏆 Professional Highlights
+
+<div align="center">
+
+| 🏅 Achievement | 📊 Detail |
+|:---|:---|
+| 🚀 **Production Applications** | 10+ apps deployed and maintained |
+| ⚡ **Uptime Record** | 99% across all projects |
+| 🔐 **Security-First** | Best practices in every build |
+| 💼 **Delivery Track Record** | On time & within budget, always |
+| 🌟 **Modern Tech Stack** | Latest industry standards |
+| 🌍 **Remote Ready** | Open to global teams |
+
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shafayat783593&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=a371f7&text_color=e6edf3&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafayat783593&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=shafayat783593&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=a371f7&fire=f0883e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+
+<br/>
+
+<!-- GitHub Activity Graph -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shafayat783593&bg_color=0d1117&color=58a6ff&line=a371f7&point=f0883e&area=true&area_color=58a6ff&hide_border=true" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=shafayat783593&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
+
+</div>
+
+---
+
+## 🔥 Current Project Spotlight
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║           🪙  CryptoHub Analytics Platform            ║
+╠══════════════════════════════════════════════════════╣
+║  Stack   →  React · Node.js · MongoDB · Express      ║
+║  Status  →  🚧 In Active Development                 ║
+║  Goal    →  Real-time crypto data · Portfolio mgmt   ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shafayat-hosan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/1bdshdmckr/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@shapashapa1676)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
 
 ## 📝 Blog & Articles
 
-🚧 *Coming Soon!* 🚧  
-I'm planning to share articles on **web development, MERN stack tips, and coding best practices** here.  
-Stay tuned for updates!  
+> 🚧 **Coming Soon!** I'm preparing articles on **MERN stack tips**, **web dev best practices**, and **real project breakdowns**. Stay tuned!
 
-<!-- Example placeholder -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Work in Progress" />
-</p>
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,50:58a6ff,100:0d1117&height=100&section=footer&animation=fadeIn" />
+
+**⭐ If you find my work helpful, consider giving a star to my repos!**
+
+*Made with ❤️ from Chittagong, Bangladesh*
+
+</div>

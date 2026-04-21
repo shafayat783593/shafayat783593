@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:a371f7&height=120&section=header&text=Md%20Shafayat%20Hosan&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/shafayat783593/shafayat783593/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png" alt="Banner" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -116,7 +116,8 @@ const shafayat = {
 ## 🏅 GitHub Trophies
 
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=shafayat783593&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=shafayat783593&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 
@@ -147,7 +148,7 @@ const shafayat = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shafayat-hosan)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/1bdshdmckr/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@shapashapa1676)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shafayat@email.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 

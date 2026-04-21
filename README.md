@@ -107,7 +107,6 @@ const shafayat = {
 
 <br/>
 
-<!-- GitHub Activity Graph -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=shafayat783593&bg_color=0d1117&color=58a6ff&line=a371f7&point=f0883e&area=true&area_color=58a6ff&hide_border=true" />
 
 </div>
@@ -118,7 +117,7 @@ const shafayat = {
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=shafayat783593&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=shafayat783593&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 
 </div>
 

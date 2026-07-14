@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://raw.githubusercontent.com/shafayat783593/shafayat783593/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(2).png" alt="Banner" />
+<img width="100%" src="https://github.com/shafayat783593/shafayat783593/blob/main/banner.png?raw=true" alt="Banner" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">

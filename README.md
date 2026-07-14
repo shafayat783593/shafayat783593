@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;Node.js+%2B+Express+%2B+Next.js;Building+Real-World+Production+Apps+%F0%9F%9B%A0%EF%B8%8F;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Md+Shafayat+Hosan;Full-Stack+Web+Developer+%F0%9F%9A%80;Node.js+%2B+Express+%2B+Next.js;Open+to+Remote+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,37 +17,28 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👋 About Me
 
-```javascript
-const shafayat = {
-    name        : "Md Shafayat Hosan",
-    role        : "Full-Stack Web Developer",
-    location    : "Chattogram, Bangladesh 🇧🇩",
-    education   : "Diploma in Computer Technology — Feni Polytechnic Institute",
+Hi, I'm **Md Shafayat Hosan** — a Full-Stack Web Developer based in Chattogram, Bangladesh. I build and deploy real-world web applications end-to-end, from database design to production deployment. Currently studying Diploma in Computer Technology at Feni Polytechnic Institute, while working hands-on with the Node.js/Express and Next.js ecosystem on live projects.
 
-    currentFocus: [
-        "Building & deploying full-stack apps end-to-end (frontend + backend + DB)",
-        "Real-time systems with Socket.IO",
-        "Payment gateway integrations (Stripe, SSLCommerz, bKash)",
-        "Writing clean, maintainable TypeScript/Node backends"
-    ],
+I enjoy turning ideas into working products — debugging production issues, integrating payment gateways, and building real-time features are what I find most satisfying about backend work.
 
-    expertise: {
-        frontend : ["React.js", "Next.js", "Tailwind CSS", "JavaScript/TypeScript"],
-        backend  : ["Node.js", "Express.js", "TypeScript", "Prisma"],
-        database : ["MongoDB", "PostgreSQL", "Redis"],
-        tools    : ["Git", "Docker", "Vercel", "Render", "Figma"]
-    },
-
-    goal    : "Seeking remote opportunities with teams that ship real products 🌐",
-    funFact : "I turn coffee ☕ into code 💻 and bugs into features 🐛✨"
-};
-```
+📍 **Location:** Chattogram, Bangladesh
+📧 **Email:** shafayat783@gmail.com
 
 ---
 
-## 🚀 Tech Stack
+## 🚧 What I'm Currently Doing
+
+- 🛍️ Building **NovaShop** — a multi-role e-commerce platform with real-time chat, payments, and promotions
+- 🔧 Working on **FixItNow** — a home services marketplace backend API
+- 📚 Exploring advanced state management patterns with **Redux Toolkit**
+- 💳 Deepening my knowledge of **payment gateway integrations** (Stripe, SSLCommerz, bKash)
+- 🌍 Looking for **remote opportunities** with teams building real products
+
+---
+
+## 🛠️ Skills
 
 <div align="center">
 
@@ -76,22 +67,7 @@ const shafayat = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
-|:---|:---|:---|
-| **NovaShop** — Multi-role E-commerce Platform | Next.js · Node.js · Express · MongoDB · Redis | Google OAuth (Passport.js + JWT/CSRF), Stripe/SSLCommerz/bKash payments, real-time admin-customer chat (Socket.IO), review & promotion engine |
-| **FixItNow** — Home Services Marketplace API | Node.js · Express · TypeScript · Prisma · PostgreSQL · Stripe | Backend API deployed on Render, role-based booking system |
-| **Salon SaaS Admin Dashboard** | Next.js · Node.js · Express · MongoDB | Super admin panel with purchase request management & subscription tracking |
-
-*Check my pinned repos below for live links and source code.* 📌
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -146,6 +122,5 @@ const shafayat = {
 
 **⭐ If you find my work helpful, consider giving a star to my repos!**
 
-*Made with ❤️ from Chattogram, Bangladesh*
-
 </div>
+
